@@ -11,3 +11,7 @@ Project ideas:
 - Music Recommender based on background music, tones, lyrics
 - Internship tracker
 - LLM risk mitigator
+- Social Media for Intermediate to Advanced Language Learners
+- Language Learning app that uses existing media to teach languages
+- Games with ads for charity
+
