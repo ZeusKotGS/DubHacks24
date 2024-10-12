@@ -1,7 +1,4 @@
-// Import the functions you need from the SDKs you need
-import 'whatwg-fetch'; // Or the polyfill you chose
 import { initializeApp } from "firebase/app";
-import { getDatabase} from 'firebase/database';
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
@@ -13,8 +10,7 @@ const firebaseConfig = {
   storageBucket: "recipesharing-be4a6.appspot.com",
   messagingSenderId: "697341533051",
   appId: "1:697341533051:web:286df9119c02a4fc773bde",
-  measurementId: "G-XMEQ7T60J6",
-  databaseURL: "https://recipesharing-be4a6-default-rtdb.firebaseio.com/"
+  measurementId: "G-XMEQ7T60J6"
 };
 
 // Initialize Firebase
