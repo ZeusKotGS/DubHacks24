@@ -2,6 +2,8 @@ import React from 'react';
 import './SideBar.css';
 import {SideBarData} from './SideBarData';
 
+
+// renders sidebar content by looping through it
 const SideBar = () => {
     return (
         <div className = "Sidebar">

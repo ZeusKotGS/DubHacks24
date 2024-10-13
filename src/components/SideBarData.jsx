@@ -1,5 +1,4 @@
-import React from 'react';
-
+// sidebar content here
 export const SideBarData = [
     {
         title: "Home",
