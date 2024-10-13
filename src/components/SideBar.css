@@ -1,0 +1,27 @@
+.Sidebar {
+    height: 100%;
+    width: 15%;
+    background-color: #fff5e8;
+    position: fixed;
+}
+
+.SidebarList {
+    padding: 0;
+    padding-top: 2vh;
+}
+
+.NavTab {
+    width: 100%;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    padding: 1vh;
+    display: flex;
+    color: #435492;
+    text-align: center;
+    padding-left: 2vw;
+}
+
+.NavTab:hover{
+    color: black;
+}
